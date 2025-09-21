@@ -1,0 +1,6 @@
+name: CombatLogging
+version: '1.0'
+main: de.adrian.combatLogging.CombatLogging
+api-version: '1.21'
+authors: [ hiadrian ]
+description: Coal Client V 1.21.1
